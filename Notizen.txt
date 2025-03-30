@@ -1,0 +1,7 @@
+Branching and Merging --> Überschrift. New Features, sie parallel zum Hauptcode laufen
+Befehle:
+git branch alien-plot --> um eine neue Branch anzulegen für das neue Features
+git branch --> ohne den Namen um zu schauen wie viele Branchen man hat 
+git checkout alien-plot --> um zu der anderen Branch, dem anderen Feature zu switchen
+git add . 
+git commit -m "Neues Feature alien-plot"
